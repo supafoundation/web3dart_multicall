@@ -8,7 +8,7 @@ environment:
 dependencies:
   web3dart:
     git:
-      url: git@github.com:BitizenWallet/web3dart.git
+      url: git@github.com:supafoundation/web3dart.git
       ref: master
 
 dev_dependencies:
